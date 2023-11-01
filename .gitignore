@@ -1,1 +1,4 @@
-.ppt
+ppt
+*.pdf
+*.gz
+.ipynb_checkpoints
